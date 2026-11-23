@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Gaming Theme Colors -->
+    <color name="background">#0E0E10</color>
+    <color name="surface">#18181B</color>
+    <color name="surface_variant">#222227</color>
+    <color name="steam_blue">#1B2838</color>
+    <color name="steam_accent">#66C0F4</color>
+    <color name="epic_grey">#2A2A2A</color>
+    <color name="epic_accent">#0078F2</color>
+    <color name="deal_green">#00E676</color>
+    <color name="neon_cyan">#00F0FF</color>
+    <color name="text_primary">#F4F4F5</color>
+    <color name="text_secondary">#A1A1AA</color>
+</resources>

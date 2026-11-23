@@ -1,0 +1,37 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+app/build/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Python / Backend
+venv/
+.venv/
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+*.sqlite3
+
+# Archives and OS files
+*.zip
+*.tar.gz
+*.rar
+.DS_Store
+Thumbs.db
